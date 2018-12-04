@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4 December 2018
 
 ### Student Name:  
-(First and Last Name)
+Ben Johnson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using the Jquery Library make changes to a recipe.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://boj1717.github.io/lesson7_jquery-/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use features from the Jquery library 
+2. How to use teh jquery hover function to create an interactive page
+3. How to use event listeners to invoke the display functinp when something is clicked. 
 
